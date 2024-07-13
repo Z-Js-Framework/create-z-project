@@ -4,7 +4,7 @@
 
 A quick way to start building with z js framework, cli spins up a z-app with recommended project structure and example patterns.
 
-💡 For full documentation on how to use z js, see [Z Js Framework Docs](https://github.com/javaScriptKampala/z-js)
+💡 For full documentation on how to use z js, see [Z Js Framework Docs](https://github.com/Z-Js-Framework/z-js)
 
 ## How it works?
 
