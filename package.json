@@ -1,11 +1,11 @@
 {
-  "name": "create-z-app",
+  "name": "create-z-project",
   "version": "0.0.1",
   "description": "A simple CLI for quickly spinning up z-js-framework apps",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-z-app": "./index.js"
+    "create-z-app": "index.js"
   },
   "dependencies": {
     "fs-extra": "^10.0.0",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Z-Js-Framework/create-z-app.git"
+    "url": "git+https://github.com/Z-Js-Framework/create-z-project.git"
   },
   "keywords": [
     "z-js-framework",
@@ -22,7 +22,7 @@
   "author": "Hussein Kizz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Z-Js-Framework/create-z-app/issues"
+    "url": "https://github.com/Z-Js-Framework/create-z-project/issues"
   },
-  "homepage": "https://github.com/Z-Js-Framework/create-z-app#readme"
+  "homepage": "https://github.com/Z-Js-Framework/create-z-project#readme"
 }
