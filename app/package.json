@@ -12,6 +12,6 @@
     "vite": "^5.3.1"
   },
   "dependencies": {
-    "z-js-framework": "^0.0.4"
+    "z-js-framework": "^0.0.5"
   }
 }
