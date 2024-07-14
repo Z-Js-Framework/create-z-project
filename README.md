@@ -1,6 +1,6 @@
 # 🔥 Create-Z-Project
 
-> create-z-project v.0.0.1 - Shell, based on (z-js-framework v.0.0.5)
+> create-z-project v.0.0.1 - Shell, based on (z-js-framework v.0.0.6)
 
 A quick way to start building with z js framework, cli spins up a z-app with recommended project structure and example patterns.
 
