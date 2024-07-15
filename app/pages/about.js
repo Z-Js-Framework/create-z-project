@@ -24,7 +24,7 @@ export default function About() {
       <input
         type="text"
         onChange="${(e) => setName(e.target.value)}"
-        classs="${inputStyles}"
+        class="${inputStyles}"
         value="${name}" />
       <div class="flex-row">
         <z-link to="/">Home</z-link>
