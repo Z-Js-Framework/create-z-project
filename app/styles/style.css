@@ -5,6 +5,10 @@
   max-width: 1200px; /* Adjust as needed */
 }
 
+.relative {
+  position: relative;
+}
+
 .flex {
   width: 100%;
   display: flex;
@@ -51,4 +55,15 @@ z-link {
 
 z-link:hover {
   color: rgb(11, 150, 11);
+}
+
+.buttons {
+  display: flex;
+  width: full;
+  gap: 1rem;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  color: green;
+  z-index: 100;
 }

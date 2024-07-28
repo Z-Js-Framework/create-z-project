@@ -4,6 +4,7 @@ import { render } from 'z-js-framework';
 import Home from './pages/home';
 import Listing from './pages/listing';
 import About from './pages/about';
+import Todos from './pages/todos';
 
 const root = document.getElementById('root');
 
@@ -20,6 +21,10 @@ const routes = [
   {
     route: '/listing',
     component: Listing,
+  },
+  {
+    route: '/todos',
+    component: Todos,
   },
 ];
 

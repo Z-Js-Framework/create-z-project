@@ -28,6 +28,14 @@ async function copySeedContents(targetDir) {
     console.log(`🤗 Navigate to your project directory: cd ${targetDir}`);
     console.log(`💡 Install dependencies: npm install`);
     console.log(`💡 Start the project: npm run dev`);
+    console.log(`\n`);
+    console.log(`💡 Also Recommended:`);
+    console.log(`\n*) Get The Inline Html Vscode Extension`);
+    console.log(`\nA) Launch VS Code If Not Already Open`);
+    console.log(`\nB) Press: Ctrl+P`);
+    console.log(`\nC) Type In Or Paste: ext install pushqrdx.inline-html`);
+    console.log(`\nD) Press: enter`);
+    console.log(`\n👍 Confirm its installed...`);
     console.log(`\n🤖 Happy Hacking!`);
   } catch (err) {
     spinner.fail('Error creating project, try again!.');

@@ -1,6 +1,6 @@
 {
   "name": "create-z-project",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple CLI for quickly spinning up z-js-framework apps",
   "main": "index.js",
   "type": "module",

@@ -1,6 +1,6 @@
 # 🔥 Z-App
 
-> v.0.0.1, Shell
+> v.0.0.2, Shell
 
 This is a demo app created using [create-z-project](https://github.com/Z-Js-Framework/create-z-project), a quick way to start building with z, with recommended project structure and example patterns.
 

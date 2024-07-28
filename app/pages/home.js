@@ -9,7 +9,7 @@ export default function Home() {
   const UI = html`
     <main class="container flex-col">
       <img
-        src="../public/z-banner.jpeg"
+        src="/z-banner.jpeg"
         alt="Z Banner"
         style="width: 100px; height: 100px; border-radius: 4px;" />
       <h1>Z App!</h1>
