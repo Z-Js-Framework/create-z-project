@@ -29,6 +29,7 @@ export default function About() {
       <div class="flex-row">
         <z-link to="/">Home</z-link>
         <z-link to="/listing">Legends</z-link>
+        <z-link to="/todos">Fetching</z-link>
         <a href="https://www.google.com">Just Google</a>
       </div>
     </main>
